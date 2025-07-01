@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('./layout.css');
+@import url('./reset.css');
+:root {
+    --font-family-base: 'Roboto', sans-serif;
+    --font-size-base: 1rem;
+    --font-weight-base: 300;
+    --line-height-base: 1.2;
+    --white: #FFFFFF;
+    --black: #000000;
+    --primary: #121827;
+    --secondary: #2957ED;
+    --text-primary: #585858;
+    --text-secondary: #2957ED;
+    --text-gray-100: #B7B7B7;
+    --text-gray-300: #E3E3E3;
+    --text-gray-600: #9B9B9B;
+    --text-gray-700: #3B3B3B;
+    --text-gray-800: #171717;
+    --text-gray-900: #080A14;
+    --bg-gray-50: #fafafa;
+    --bg-gray-100: #f8f8f8;
+    --bg-gray-200: #F5F5F5;
+    --bg-gray-400: #B9B9B9;
+    --bg-gray-500: #969696;
+    --bg-gray-600: #373E4E;
+    --bg-dark-gray: #F0F0F0;
+    --bg-link-water: #F1F3FC;
+    --bg-yellow: #FFE9912C;
+    --bg-green:#56C741;
+}
+
+body, * {
+    font-family: var(--font-family-base);
+    font-size: var(--font-size-base);
+    font-weight: var(--font-weight-base);
+    line-height:var(--line-height-base);
+}
+
+#main {
+    padding-top:64px;
+}
+
+.container {
+    width: 100%;
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+ 

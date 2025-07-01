@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_15035" data-name="Rectangle 15035" width="20" height="20" transform="translate(0 0.001)" fill="#d3770a"/>
+    </clipPath>
+  </defs>
+  <g id="Group_17814" data-name="Group 17814" transform="translate(-1084 -2375)">
+    <rect id="Rectangle_15424" data-name="Rectangle 15424" width="45" height="45" rx="10" transform="translate(1084 2375)" fill="#fcf3cb"/>
+    <g id="Group_17632" data-name="Group 17632" transform="translate(1097 2388)">
+      <g id="Group_17358" data-name="Group 17358" clip-path="url(#clip-path)">
+        <path id="Path_14310" data-name="Path 14310" d="M17,20H15a2.991,2.991,0,0,1-2-.765A2.991,2.991,0,0,1,11,20H9a2.991,2.991,0,0,1-2-.765A2.991,2.991,0,0,1,5,20H3a3,3,0,0,1-3-3V11A3,3,0,0,1,3,8H5a3.009,3.009,0,0,1,1,.171V7A3,3,0,0,1,9,4h2a3,3,0,0,1,1,.171V3a3,3,0,0,1,3-3h2a3,3,0,0,1,3,3V17a3,3,0,0,1-3,3m-3-3a1,1,0,0,0,1,1h2a1,1,0,0,0,1-1V3a1,1,0,0,0-1-1H15a1,1,0,0,0-1,1ZM8,17a1,1,0,0,0,1,1h2a1,1,0,0,0,1-1V7a1,1,0,0,0-1-1H9A1,1,0,0,0,8,7ZM3,10a1,1,0,0,0-1,1v6a1,1,0,0,0,1,1H5a1,1,0,0,0,1-1V11a1,1,0,0,0-1-1Z" fill="#d3770a"/>
+      </g>
+    </g>
+  </g>
+</svg>
